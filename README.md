@@ -6,7 +6,7 @@
 
 - [AgentGenome](https://github.com/Pyromind-Dynamics/AgentGenome/tree/agent-refactor)：Agent 轨迹沉淀与可验证工作流框架。
 - [Pi JEV Governor](https://github.com/Pyromind-Dynamics/pi-jev-governor)：Coding Agent 的模型路由与决策治理。
-- [Software Agent SDK](https://github.com/Pyromind-Dynamics/software-agent-sdk/tree/feat/history_replay)：Agent 运行与模型评测能力。
+- [Software Agent SDK](https://github.com/Pyromind-Dynamics/software-agent-sdk/tree/feat/history_replay)：基于 OpenHands SDK 的 Pyromind Agent 平台，通过自然语言辅助数据处理、训练工作流配置与模型评测。
 
 ## 个人项目
 
